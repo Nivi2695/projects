@@ -1,0 +1,700 @@
+JSON Input:
+
+{
+
+  "fiList": [
+
+    {
+
+      "numActive": 4,
+
+      "fiID": "HDBFIC002",
+
+      "fiName": "Hong Leong Finance Limited",
+
+      "fiAcrnym": "HLF",
+
+      "packages": [
+
+        {
+
+          "packageSubtype": "HHR",
+
+          "packageID": "HDBFIC002P0009",
+
+          "refRateExp": "HDB Home rate (HHR) is currently at 4.85% p.a.\r\nRates are subject to change at our discretion without prior notice.",
+
+          "thereafter": 2.2,
+
+          "version": 7,
+
+          "packageStatus": "A",
+
+          "packageType": "FX",
+
+          "packagePeriod": 2,
+
+          "moreInfo": "https://www.hlf.com.sg/personal/loans/hdb-home-loan.html",
+
+          "createDateTime": "2020-06-05 20:50",
+
+          "features": "2-Year Fixed Rate Package.\r\nFor 3-room HDB flats and above.\r\nLoan Tenure : Up to 30 years or maximum age of 70 years old, whichever is earlier.\r\nValuation Fee : Waived.\r\nCommencement of Interest : 3 months from date of Letter of Offer or 1st disbursement, whichever is earlier",
+
+          "termsAndCond": "https://www.hlf.com.sg/personal/loans/hdb-home-loan.html",
+
+          "fiContact": "branches-sales@hlf.com.sg",
+
+          "intYr1": 1.45,
+
+          "lockInPeriod": 2,
+
+          "intYr3": 1.75,
+
+          "intYr2": 1.45,
+
+          "intYr5": 2.2,
+
+          "updateDateTime": "2020-10-29 09:15",
+
+          "intYr4": 2.2,
+
+          "packageRank": 1,
+
+          "feesAndCharges": "Redemption Penalty: 1.5% of the prepaid amount for full/partial redemption within 2 years from the date of first disbursement.\r\nCancellation Fee: 1.5% of loan amount cancelled."
+
+        },
+
+        {
+
+          "packageSubtype": "HHR",
+
+          "packageID": "HDBFIC002P0006",
+
+          "refRateExp": "HDB Home rate (HHR) is currently at 4.85% p.a.\r\nRates are subject to change at our discretion without prior notice.",
+
+          "thereafter": 2.2,
+
+          "version": 3,
+
+          "packageStatus": "A",
+
+          "packageType": "FX",
+
+          "packagePeriod": 3,
+
+          "moreInfo": "https://www.hlf.com.sg/personal/loans/hdb-home-loan.html",
+
+          "createDateTime": "2020-06-05 20:48",
+
+          "features": "3-Year Fixed Rate Package.\r\nFor 3-room HDB flats and above.\r\nLoan Tenure: Up to 30 years or maximum age of 70 years old, whichever is earlier.\r\nValuation Fee: Waived.\r\nCommencement of Interest: 3 months from date of Letter of Offer or 1st disbursement, whichever is earlier.",
+
+          "termsAndCond": "https://www.hlf.com.sg/personal/loans/hdb-home-loan1.html",
+
+          "fiContact": "Branches-sales@hlf.com.sg",
+
+          "intYr1": 1.55,
+
+          "lockInPeriod": 3,
+
+          "intYr3": 1.85,
+
+          "intYr2": 1.65,
+
+          "intYr5": 2.2,
+
+          "updateDateTime": "2020-08-24 18:23",
+
+          "intYr4": 2.2,
+
+          "packageRank": 2,
+
+          "feesAndCharges": "Redemption Penalty: 1.5% of the prepaid amount for full / partial redemption within 3 years from the date of first disbursement.\r\nCancellation Fee: 1.5% of loan amount cancelled."
+
+        },
+
+        {
+
+          "packageSubtype": "HHR",
+
+          "packageID": "HDBFIC002P0007",
+
+          "refRateExp": "HDB Home rate (HHR) is currently at 4.85% p.a.\r\nRates are subject to change at our discretion without prior notice.\r\ntesting",
+
+          "thereafter": 2.2,
+
+          "version": 3,
+
+          "packageStatus": "A",
+
+          "packageType": "FO",
+
+          "packagePeriod": 0,
+
+          "moreInfo": "https://www.hlf.com.sg/personal/loans/hdb-home-loan.html",
+
+          "createDateTime": "2020-06-05 20:48",
+
+          "features": "Variable Rate Package.\r\nFor 3-room HDB flats and above.\r\nLoan Tenure: Up to 30 years or maximum age of 70 years old, whichever is earlier.\r\nValuation Fee: Waived.\r\nCommencement of Interest: 3 months from date of Letter of Offer or 1st disbursement, whichever is earlier.",
+
+          "termsAndCond": "https://www.hlf.com.sg/personal/loans/hdb-home-loan.html",
+
+          "fiContact": "Branches-sales@hlf.com.sg",
+
+          "intYr1": 1.4,
+
+          "lockInPeriod": 2,
+
+          "intYr3": 1.4,
+
+          "intYr2": 1.4,
+
+          "intYr5": 2.2,
+
+          "updateDateTime": "2020-08-24 18:23",
+
+          "intYr4": 2.2,
+
+          "packageRank": 3,
+
+          "feesAndCharges": "Redemption Penalty: 1.5% of the prepaid amount for full / partial redemption within 3 years from the date of first disbursement.\r\nCancellation Fee: 1.5% of loan amount cancelled."
+
+        },
+
+        {
+
+          "packageSubtype": "Sibor",
+
+          "packageID": "HDBFIC002P0011",
+
+          "refRateExp": "HDB Home rate (HHR) is currently at 4.85% p.a.\r\nRates are subject to change at our discretion without prior notice.",
+
+          "thereafter": 3,
+
+          "version": 1,
+
+          "packageStatus": "A",
+
+          "packageType": "FX",
+
+          "packagePeriod": 3,
+
+          "moreInfo": "https://www.hlf.com.sg/personal/loans/hdb-home-loan.html",
+
+          "createDateTime": "2020-06-24 17:56",
+
+          "features": "2-Year Fixed Rate Package.\r\nFor 3-room HDB flats and above.\r\nLoan Tenure: Up to 30 years or maximum age of 70 years old, whichever is earlier.\r\nValuation Fee: Waived.\r\nCommencement of Interest: 3 months from date of Letter of Offer or 1st disbursement, whichever is earlier.",
+
+          "termsAndCond": "https://www.hlf.com.sg/personal/loans/hdb-home-loan.html",
+
+          "fiContact": "Branches-sales@hlf.com.sg",
+
+          "intYr1": 1,
+
+          "lockInPeriod": 3,
+
+          "intYr3": 3,
+
+          "intYr2": 2,
+
+          "intYr5": 3,
+
+          "updateDateTime": "2020-10-29 09:14",
+
+          "intYr4": 3,
+
+          "packageRank": 4,
+
+          "feesAndCharges": "Redemption Penalty: 1.5% of the prepaid amount for full / partial redemption within 2 years from the date of first disbursement.\r\nCancellation Fee: 1.5% of loan amount cancelled."
+
+        }
+
+      ]
+
+    },
+
+    {
+
+      "numActive": 2,
+
+      "fiID": "HDBFIC003",
+
+      "fiName": "Maybank Singapore Limited",
+
+      "fiAcrnym": "MSL",
+
+      "packages": [
+
+        {
+
+          "packageSubtype": "SRFR2",
+
+          "packageID": "HDBFIC003P0032",
+
+          "refRateExp": "Explanation of Reference Rates.",
+
+          "thereafter": 2.75,
+
+          "version": 3,
+
+          "packageStatus": "A",
+
+          "packageType": "FX",
+
+          "packagePeriod": 2,
+
+          "moreInfo": "https://www.maybank2u.com.sg/en/personal/loans/property-loans/index.page?",
+
+          "createDateTime": "2020-06-14 15:58",
+
+          "features": "Exclusive renovation loan interest rates at only 2.88% p.a.",
+
+          "termsAndCond": "https://www.maybank2u.com.sg/iwov-resources/sg/pdf/loans/banking_facilities_tnc.pdf",
+
+          "fiContact": "cbdbcloans@maybank.com.sg",
+
+          "intYr1": 1.5,
+
+          "lockInPeriod": 2,
+
+          "intYr3": 2.75,
+
+          "intYr2": 1.5,
+
+          "intYr5": 2.75,
+
+          "updateDateTime": "2020-08-24 19:50",
+
+          "intYr4": 2.75,
+
+          "packageRank": 1,
+
+          "feesAndCharges": "1.50% prepayment  fee on amounts prepaid within lock-in period.\r\n1.50% redemption fee on redeemed loan amount within lock-in period.\r\n1.50% cancellation fee on cancelled loan amount."
+
+        },
+
+        {
+
+          "packageSubtype": "SRFR2",
+
+          "packageID": "HDBFIC003P0036",
+
+          "refRateExp": "Test",
+
+          "thereafter": 1.85,
+
+          "version": 3,
+
+          "packageStatus": "A",
+
+          "packageType": "FO",
+
+          "packagePeriod": 0,
+
+          "moreInfo": "https://www.maybank2u.com.sg/en/personal/loans/property-loans/index.page?",
+
+          "createDateTime": "2020-07-08 11:57",
+
+          "features": "Exclusive renovation loan interest rates at only 2.88% p.a.",
+
+          "termsAndCond": "https://www.maybank2u.com.sg/iwov-resources/sg/pdf/loans/banking_facilities_tnc.pdf",
+
+          "fiContact": "cbdbcloans@maybank.com.sg",
+
+          "intYr1": 1.6,
+
+          "lockInPeriod": 2,
+
+          "intYr3": 1.85,
+
+          "intYr2": 1.6,
+
+          "intYr5": 1.85,
+
+          "updateDateTime": "2020-08-24 19:50",
+
+          "intYr4": 1.85,
+
+          "packageRank": 2,
+
+          "feesAndCharges": "1.50% prepayment  fee on amounts prepaid within lock-in period.\r\n1.50% redemption fee on redeemed loan amount within lock-in period.\r\n1.50% cancellation fee on cancelled loan amount."
+
+        }
+
+      ]
+
+    },
+
+    {
+
+      "numActive": 4,
+
+      "fiID": "HDBFIC004",
+
+      "fiName": "Oversea-Chinese Banking Corporation Limited",
+
+      "fiAcrnym": "OCBC Bank",
+
+      "packages": [
+
+        {
+
+          "packageSubtype": "MBR",
+
+          "packageID": "HDBFIC004P3492",
+
+          "refRateExp": "vsenthil",
+
+          "thereafter": 2,
+
+          "version": 1,
+
+          "packageStatus": "A",
+
+          "packageType": "FX",
+
+          "packagePeriod": 3,
+
+          "moreInfo": "https://www.asdf.com",
+
+          "createDateTime": "2020-09-09 18:06",
+
+          "features": "partial prepayment after year 3",
+
+          "termsAndCond": "https://www.ocbc.com/group/group-home.html",
+
+          "fiContact": "sen@gmail.com",
+
+          "intYr1": 1.6,
+
+          "lockInPeriod": 3,
+
+          "intYr3": 1.6,
+
+          "intYr2": 1.6,
+
+          "intYr5": 2,
+
+          "updateDateTime": "2020-09-09 18:06",
+
+          "intYr4": 2,
+
+          "packageRank": 1,
+
+          "feesAndCharges": "fees"
+
+        },
+
+        {
+
+          "packageSubtype": "SIBOR",
+
+          "packageID": "HDBFIC004P3493",
+
+          "refRateExp": "visit abs.com",
+
+          "thereafter": 1.6,
+
+          "version": 1,
+
+          "packageStatus": "A",
+
+          "packageType": "FX",
+
+          "packagePeriod": 2,
+
+          "moreInfo": "https://www.ocbc.com/group/group-home.html",
+
+          "createDateTime": "2020-09-09 18:06",
+
+          "features": "klsjdf",
+
+          "termsAndCond": "https://www.ocbc.com/group/group-home.html",
+
+          "fiContact": "helllo@ocbc.com",
+
+          "intYr1": 1.2,
+
+          "lockInPeriod": 2,
+
+          "intYr3": 1.4,
+
+          "intYr2": 1.3,
+
+          "intYr5": 1.6,
+
+          "updateDateTime": "2020-09-09 18:06",
+
+          "intYr4": 1.5,
+
+          "packageRank": 2,
+
+          "feesAndCharges": "lskajf"
+
+        },
+
+        {
+
+          "packageSubtype": "SIBOR",
+
+          "packageID": "HDBFIC004P3494",
+
+          "refRateExp": "www.ocbc.com",
+
+          "thereafter": 1.5,
+
+          "version": 1,
+
+          "packageStatus": "A",
+
+          "packageType": "FO",
+
+          "packagePeriod": 2,
+
+          "moreInfo": "https://www.ocbc.com/group/group-home.html",
+
+          "createDateTime": "2020-09-09 18:06",
+
+          "features": "www.ocbc.com",
+
+          "termsAndCond": "https://www.ocbc.com/group/group-home.html",
+
+          "fiContact": "www@ocbc.com",
+
+          "intYr1": 1.3,
+
+          "lockInPeriod": 2,
+
+          "intYr3": 1.4,
+
+          "intYr2": 1.3,
+
+          "intYr5": 1.5,
+
+          "updateDateTime": "2020-09-09 18:06",
+
+          "intYr4": 1.4,
+
+          "packageRank": 3,
+
+          "feesAndCharges": "www.ocbc.com"
+
+        },
+
+        {
+
+          "packageSubtype": "MBR",
+
+          "packageID": "HDBFIC004P3495",
+
+          "refRateExp": "www.ocbc.com",
+
+          "thereafter": 1.9,
+
+          "version": 1,
+
+          "packageStatus": "A",
+
+          "packageType": "FX",
+
+          "packagePeriod": 0,
+
+          "moreInfo": "https://www.ocbc.com/group/group-home.html",
+
+          "createDateTime": "2020-09-09 18:06",
+
+          "features": "www.ocbc.com",
+
+          "termsAndCond": "https://www.ocbc.com/group/group-home.html",
+
+          "fiContact": "www@ocbc.com",
+
+          "intYr1": 1.6,
+
+          "lockInPeriod": 2,
+
+          "intYr3": 1.4,
+
+          "intYr2": 1.6,
+
+          "intYr5": 1.8,
+
+          "updateDateTime": "2020-09-09 18:06",
+
+          "intYr4": 1.8,
+
+          "packageRank": 4,
+
+          "feesAndCharges": "www.ocbc.com"
+
+        }
+
+      ]
+
+    },
+
+    {
+
+      "numActive": 2,
+
+      "fiID": "HDBFIC005",
+
+      "fiName": "Sing Investments & Finance Limited",
+
+      "fiAcrnym": "SIF",
+
+      "packages": [
+
+        {
+
+          "packageSubtype": "SIFHR_0820",
+
+          "packageID": "HDBFIC005P0002",
+
+          "refRateExp": "SIF Board rate",
+
+          "thereafter": 2.2,
+
+          "version": 2,
+
+          "packageStatus": "A",
+
+          "packageType": "FO",
+
+          "packagePeriod": 0,
+
+          "moreInfo": "http://www.sif.com.sg/hdb-loan.php",
+
+          "createDateTime": "2020-06-15 11:53",
+
+          "features": "- Floating rate package\r\n- No lock-in period\r\n- Flexibility to make capital repayment or redemption",
+
+          "termsAndCond": "http://www.sif.com.sg/hdb-loan.php",
+
+          "fiContact": "pmt@sif.com.sg",
+
+          "intYr1": 1.8,
+
+          "lockInPeriod": 0,
+
+          "intYr3": 1.8,
+
+          "intYr2": 1.8,
+
+          "intYr5": 2.2,
+
+          "updateDateTime": "2020-08-24 19:37",
+
+          "intYr4": 2.2,
+
+          "packageRank": 1,
+
+          "feesAndCharges": "- No processing fee"
+
+        },
+
+        {
+
+          "packageSubtype": "SIFHR_0820",
+
+          "packageID": "HDBFIC005P0003",
+
+          "refRateExp": "SIF Board rate",
+
+          "thereafter": 2.2,
+
+          "version": 3,
+
+          "packageStatus": "A",
+
+          "packageType": "FO",
+
+          "packagePeriod": 0,
+
+          "moreInfo": "http://www.sif.com.sg/hdb-loan.php",
+
+          "createDateTime": "2020-06-15 11:54",
+
+          "features": "- Floating rate package\r\n- Flexibility to make capital repayment for up to 20% of the loan amount during the lock in period",
+
+          "termsAndCond": "http://www.sif.com.sg/hdb-loan.php",
+
+          "fiContact": "pmt@sif.com.sg",
+
+          "intYr1": 1.38,
+
+          "lockInPeriod": 2,
+
+          "intYr3": 1.38,
+
+          "intYr2": 1.38,
+
+          "intYr5": 2.2,
+
+          "updateDateTime": "2020-08-24 19:45",
+
+          "intYr4": 2.2,
+
+          "packageRank": 2,
+
+          "feesAndCharges": "- No processing fee\r\n- 1.50% of the prepaid amount in the event of capital repayment\r\n- 1.50% of the loan amount in the event of early redemption"
+
+        },
+
+        {
+
+          "packageSubtype": "SIBOR1200P",
+
+          "packageID": "HDBFIC005P0001",
+
+          "refRateExp": "Hello, how are you doing? Remember to bring an umbrella as it looks like it's going to rain soon. Have you had your lunch? Have you completed the tasks assigned to you today? Month end is coming soon. Are you prepared for it?? How long does it take to travel from Jurong to Tampines? Word Count: 320",
+
+          "thereafter": 1.8,
+
+          "version": 1,
+
+          "packageStatus": "I",
+
+          "packageType": "FX",
+
+          "packagePeriod": 25,
+
+          "moreInfo": "http://www.google.com",
+
+          "createDateTime": "2020-06-15 11:52",
+
+          "features": "Hello, how are you doing? Remember to bring an umbrella as it looks like it's going to rain soon. Have you had your lunch? Have you completed the tasks assigned to you today? Month end is coming soon. Are you prepared for it?? How long does it take to travel from Jurong to Tampines? Word Count: 320",
+
+          "termsAndCond": "http://www.google.com",
+
+          "fiContact": "nickthong@sif.com.sg",
+
+          "intYr1": 1.28,
+
+          "lockInPeriod": 2,
+
+          "intYr3": 1.59,
+
+          "intYr2": 1.38,
+
+          "intYr5": 1.8,
+
+          "updateDateTime": "2020-08-24 19:37",
+
+          "intYr4": 1.3,
+
+          "packageRank": 3,
+
+          "feesAndCharges": "Hello, how are you doing? Remember to bring an umbrella as it looks like it's going to rain soon. Have you had your lunch? Have you completed the tasks assigned to you today? Month end is coming soon. Are you prepared for it?? How long does it take to travel from Jurong to Tampines? Word Count: 320"
+
+        }
+
+      ]
+
+    }
+
+  ]
+
+}
+
+
+
