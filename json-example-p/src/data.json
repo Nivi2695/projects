@@ -1,0 +1,16 @@
+{
+    "firstName": "Nivi",
+    "lastName": "Karthikeyam",
+    "gender": "female",
+    "age": 24,
+    "address": {
+        "streetAddress": "162",
+        "city": "vedaranyam",
+        "state": "nagai",
+        "postalCode": "614707"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "04369274900" },
+		{ "type": "mobile", "number": "9047717302" }
+    ]
+}
